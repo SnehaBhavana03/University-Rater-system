@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "question": "How would you rate the quality of instruction provided by the faculty?",
+    "type": "rating",
+    "category": "Academic Quality"
+  },
+  {
+    "id": 2,
+    "question": "How effective are the academic resources (e.g., libraries, labs) available to students?",
+    "type": "rating",
+    "category": "Academic Quality"
+  },
+  {
+    "id": 3,
+    "question": "How would you rate the cleanliness and maintenance of the campus facilities?",
+    "type": "rating",
+    "category": "Campus Facilities"
+  },
+  {
+    "id": 4,
+    "question": "Are study spaces and common areas sufficient for student needs?",
+    "type": "boolean",
+    "category": "Campus Facilities"
+  },
+  {
+    "id": 5,
+    "question": "How inclusive and welcoming is the student community on campus?",
+    "type": "rating",
+    "category": "Student Life and Community"
+  },
+  {
+    "id": 6,
+    "question": "Are there enough clubs and organizations that cater to your interests?",
+    "type": "boolean",
+    "category": "Student Life and Community"
+  },
+  {
+    "id": 7,
+    "question": "How would you rate the variety and quality of food options available on campus?",
+    "type": "rating",
+    "category": "Dining and Food Options"
+  },
+  {
+    "id": 8,
+    "question": "Are there sufficient dietary options (e.g., vegetarian, vegan, gluten-free)?",
+    "type": "boolean",
+    "category": "Dining and Food Options"
+  },
+  {
+    "id": 9,
+    "question": "How would you rate the quality of on-campus housing?",
+    "type": "rating",
+    "category": "Housing and Accommodation"
+  },
+  {
+    "id": 10,
+    "question": "Are the dorms/apartments well-maintained and comfortable?",
+    "type": "boolean",
+    "category": "Housing and Accommodation"
+  },
+  {
+    "id": 11,
+    "question": "How would you rate the ease of commuting to and from the university?",
+    "type": "rating",
+    "category": "Transportation and Accessibility"
+  },
+  {
+    "id": 12,
+    "question": "Are the transportation options (e.g., buses, shuttles) reliable and timely?",
+    "type": "boolean",
+    "category": "Transportation and Accessibility"
+  },
+  {
+    "id": 13,
+    "question": "How reasonable are tuition fees and associated costs compared to the value of education received?",
+    "type": "rating",
+    "category": "Cost and Financial Aid"
+  },
+  {
+    "id": 14,
+    "question": "How satisfied are you with the availability and helpfulness of financial aid services?",
+    "type": "rating",
+    "category": "Cost and Financial Aid"
+  },
+  {
+    "id": 15,
+    "question": "How would you rate the availability and quality of health services on campus?",
+    "type": "rating",
+    "category": "Health and Wellness"
+  },
+  {
+    "id": 16,
+    "question": "Are mental health resources sufficient and accessible to students?",
+    "type": "boolean",
+    "category": "Health and Wellness"
+  },
+  {
+    "id": 17,
+    "question": "How would you rate the support provided by the university for career planning and job search?",
+    "type": "rating",
+    "category": "Career Services"
+  },
+  {
+    "id": 18,
+    "question": "Are internship and job opportunities promoted effectively to students?",
+    "type": "boolean",
+    "category": "Career Services"
+  },
+  {
+    "id": 19,
+    "question": "How would you rate the availability and quality of technology on campus (e.g., Wi-Fi, lab equipment)?",
+    "type": "rating",
+    "category": "Technology and Innovation"
+  },
+  {
+    "id": 20,
+    "question": "Are the university's technological resources (e.g., learning platforms) user-friendly and effective?",
+    "type": "boolean",
+    "category": "Technology and Innovation"
+  },
+  {
+    "id": 21,
+    "question": "Are there sufficient recycling and waste reduction initiatives on campus?",
+    "type": "boolean",
+    "category": "Environmental Sustainability"
+  },
+  {
+    "id": 22,
+    "question": "Does the university implement energy-saving measures (e.g., solar panels, efficient lighting)?",
+    "type": "rating",
+    "category": "Environmental Sustainability"
+  },
+  {
+    "id": 23,
+    "question": "How effective are the university's support services (e.g., tutoring, counseling, advising)?",
+    "type": "rating",
+    "category": "Student Support Services"
+  },
+  {
+    "id": 24,
+    "question": "How satisfied are you with the university's response to student feedback and concerns?",
+    "type": "rating",
+    "category": "Student Support Services"
+  },
+  {
+    "id": 25,
+    "question": "How would you rate the location of the university (e.g., safety, nearby amenities)?",
+    "type": "rating",
+    "category": "Location and Surroundings"
+  },
+  {
+    "id": 26,
+    "question": "Are there sufficient off-campus activities and entertainment options available?",
+    "type": "boolean",
+    "category": "Location and Surroundings"
+  },
+  {
+    "id": 27,
+    "question": "How well-maintained and safe are the on-campus transportation facilities?",
+    "type": "rating",
+    "category": "Transportation Facility"
+  },
+  {
+    "id": 28,
+    "question": "How would you rate the availability of parking for students?",
+    "type": "rating",
+    "category": "Transportation Facility"
+  }
+]

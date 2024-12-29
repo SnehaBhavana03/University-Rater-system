@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Harvard University",
+    "image": "https://www.scholarshipcare.com/wp-content/uploads/2019/01/Harvard-University--1024x538.jpg"
+  },
+  {
+    "name": "Stanford University",
+    "image": "https://th.bing.com/th/id/R.818faafb814bf702a2cbac5190c9fbdf?rik=N1nExK0fZpdvzg&riu=http%3a%2f%2f3.bp.blogspot.com%2f-IqCic_-RycA%2fUchMFyf_GhI%2fAAAAAAAAAeM%2fRtV1LOYEX5s%2fs1600%2fStanford-university.jpg&ehk=AS32fiLn9PWzcibnuNKrorf0mTtETan135ZeC0rKPgY%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "name": "Massachusetts Institute of Technology (MIT)",
+    "image": "https://th.bing.com/th/id/R.4f11b79c4e0a715e0bebece8a9250b57?rik=7k%2flM4qQgL%2fuxw&riu=http%3a%2f%2fcollegesimply.imgix.net%2fprimary%2fmassachusetts-institute-of-technology-166683.jpg%3fauto%3dformat%2ccompress&ehk=425Mq%2b6cj1wGab6AaBeWR4O2jt7qRpzKRjDJjYnATuk%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "name": "California Institute of Technology (Caltech)",
+    "image": "https://univerlist.com/media/images/blog/Caltech.jpg"
+  },
+  {
+    "name": "University of Chicago",
+    "image": "https://media.istockphoto.com/photos/university-of-chicago-picture-id466536220?k=6&m=466536220&s=612x612&w=0&h=lusd7Nc-iCXHUnnQobN0bT3eyXDtEE2YMtJreCyqqAo="
+  },
+  {
+    "name": "Princeton University",
+    "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/princeton-university-main-building-at-front-gate-geraldine-scull.jpg"
+  },
+  {
+    "name": "Yale University",
+    "image": "https://th.bing.com/th/id/R.d109b7aebd2e764942ef2c9693b36fd9?rik=iPQl9mEi4FwLbg&riu=http%3a%2f%2f2.bp.blogspot.com%2f--C-r9sYHoaA%2fT7ZyIQg6b-I%2fAAAAAAAAAD8%2f2QS5rot_0lU%2fs1600%2fYale%2bCollege%2bCranium%2bYale%2bCollege%2bCranium%2bYale%2bCollege%2bCranium%2bYale%2bCollege%2bCranium.jpg&ehk=cy0WCVY%2flYXeZ6Ywm4Of4j3zjmj3%2f4D94QBWhEOU6C4%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"
+  },
+  {
+    "name": "Columbia University",
+    "image": "https://th.bing.com/th/id/R.e7af573d2cfe568ad7c8550a97341d5f?rik=JhjKCYV3Oj8thg&riu=http%3a%2f%2fwww.scholaradvisor.com%2fwp-content%2fuploads%2fcolumbia_university-New-York-Manhatta-United-States.jpg&ehk=BBR60llD2XvT%2fXtSqlx5762dT2VxCM6n1Jd4CBt24AU%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "name": "University of California, Berkeley",
+    "image": "https://ihsvoice.com/wp-content/uploads/2022/03/UC-Berkeley-campus.jpg"
+  },
+  {
+    "name": "University of California, Los Angeles (UCLA)",
+    "image": "https://th.bing.com/th/id/R.fe14466b90372baeb2239aafa53c1ee2?rik=vVkIXK1269zxfg&pid=ImgRaw&r=0"
+  },
+  {
+    "name": "University of Pennsylvania",
+    "image": "https://wallpaperaccess.com/full/5427442.jpg"
+  },
+  {
+    "name": "Johns Hopkins University",
+    "image": "https://th.bing.com/th/id/R.d2feeb00a5993c16ef7fad38d03fd45f?rik=%2b9uf1fd6ieRw4A&pid=ImgRaw&r=0"
+  },
+  {
+    "name": "University of Michigan, Ann Arbor",
+    "image": "https://storage.googleapis.com/collegetuitioncompare/images/colleges/170976-university-of-michigan-ann-arbor.jpg"
+  },
+  {
+    "name": "University of Washington, Seattle",
+    "image": "https://tcglivenew.s3.amazonaws.com/images/school/53fc1928-b832-4c51-b0a6-1d8851cbd71b.jpg"
+  },
+  {
+    "name": "Duke University",
+    "image": "https://blogs.library.duke.edu/bitstreams/files/2015/08/duke-chapel.jpg"
+  },
+  {
+    "name": "New York University (NYU)",
+    "image": "https://meet.nyu.edu/wp-content/uploads/2023/02/18-0117-023-1536x1024.jpg"
+  },
+  {
+    "name": "University of Southern California (USC)",
+    "image": "https://www.tailgaterconcierge.com/wp-content/uploads/2019/05/usc.jpg"
+  },
+  {
+    "name": "University of North Carolina at Chapel Hill",
+    "image": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vbWVkaWEucmJsLm1zL2ltYWdlP3U9JTJGZmlsZXMlMkYyMDE2JTJGMDElMkYwMyUyRjYzNTg3Mzk3NzM0NDMwNzgzMy01OTQ3NDE0NjZfODQ5NjE2OTA4OV8wNzYxODQ4YzU2LmpwZyZobz1odHRwJTNBJTJGJTJGY2RuMS50aGVvZHlzc2V5b25saW5lLmNvbSZzPTE0NyZoPTc3NGM3MDdmYzdhNzgzYTg0YjQzMjY5NjI1YjUyMzBjYTNhNDQ3YTliMTA3NjQ2YzM0MTBmNjExOGNkNmZlNzMmc2l6ZT05ODB4JmM9MzA5NDI4MjQ5NiIsImV4cGlyZXNfYXQiOjE2NTM3MTE1MzR9._45ZOdqgwne_NRPofuOFg513Mk3dh-0mZEoUiTEs57A/img.jpg?width=1200&height=628"
+  },
+  {
+    "name": "University of Texas at Austin",
+    "image": "https://www.utexas.edu/sites/default/files/styles/utexas_hero_photo_image/public/hero-photos/maincampus_hero.jpg?itok=ZkKrhFki"
+  },
+  {
+    "name": "University of Virginia",
+    "image": "https://th.bing.com/th/id/R.afc958895585256a41573393945cf0ee?rik=mTuF8zH7YZVTvQ&pid=ImgRaw&r=0"
+  },
+  {
+    "name": "University of Wisconsin-Madison",
+    "image": "https://th.bing.com/th/id/OIP.hGBw2zJlv-IBxf2m9GvspwHaE7?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "University of Florida",
+    "image": "https://heatfeed.com/wp-content/uploads/2020/02/University-of-Florida.jpg"
+  },
+  {
+    "name": "University of Illinois at Urbana-Champaign",
+    "image": "https://th.bing.com/th/id/R.5b81bb5e7d3d5347a83787ea1320ba91?rik=hnhSR68OMdRTgg&riu=http%3a%2f%2fwww.visionsoftravel.org%2fwp-content%2fuploads%2f2015%2f08%2fUIUC-campus-Urbana-Champaign-Illinois-13.jpg&ehk=TZ9DyPSC7dt9pJ42NdmJx%2f%2fq9w7NWyP0dZTPCTuSAnc%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "name": "Carnegie Mellon University",
+    "image": "https://wallpaperaccess.com/full/8077674.jpg"
+  },
+  {
+    "name": "University of Minnesota, Twin Cities",
+    "image": "https://admissions.tc.umn.edu/sites/admissions.tc.umn.edu/files/2021-08/home_hero_option1%281%29.jpg"
+  },
+  {
+    "name": "University of California, San Diego (UCSD)",
+    "image": "https://today.ucsd.edu/news_uploads/_social/hero_210115-Geisel-153DSC_7591-UCSanDiego-ErikJepsen_%281%29.jpg"
+  },
+  {
+    "name": "University of Notre Dame",
+    "image": "https://cdn.britannica.com/51/189951-050-81EDCED8/University-of-Notre-Dame-Indiana.jpg"
+  },
+  {
+    "name": "Vanderbilt University",
+    "image": "https://www.appily.com/sites/default/files/styles/max_1200/public/images/hero/college/221999_hero.jpg?itok=k4072K2r"
+  },
+  {
+    "name": "Brown University",
+    "image": "https://www.usnews.com/dims4/USNEWS/7072f85/17177859217/resize/800x540%3E/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fd1%2Ffe377768fbb26f45239bd82b4b41d0%2F20191020_COMM_coheamarketing121.png"
+  },
+  {
+    "name": "Emory University",
+    "image": "https://ece.emory.edu/_includes/images/pre-2021/photo-blocks/school-of-nursing.jpg"
+  },
+  {
+    "name": "Georgetown University",
+    "image": "https://cdn.britannica.com/33/132433-050-AA78347C/Healy-Hall-Georgetown-University-Washington-DC.jpg"
+  },
+  {
+    "name": "University at Albany, SUNY",
+    "image": "https://www.albany.edu/templates/bridgeline/images/pic-9.jpg"
+  },
+  {
+    "name": "SUNY Buffalo (University at Buffalo)",
+    "image": "https://www.suny.edu/media/suny/content-assets/images/campus-profiles/pics/Buffalo-campus-banner.jpg"
+  },
+  {
+    "name": "SUNY Stony Brook University",
+    "image": "https://www.suny.edu/media/suny/content-assets/images/campus-profiles/pics/StonyBrook-walkway-flag.jpg"
+  },
+  {
+    "name": "SUNY Binghamton University",
+    "image": "https://www.commonapp.org/static/b2b919f5466888c13dd728b47471d779/suny-binghamton-university_35.png"
+  },
+  {
+    "name": "SUNY College of Environmental Science and Forestry (ESF)",
+    "image": "https://www.suny.edu/media/suny/content-assets/images/campus-profiles/pics/ESF-campus-banner.jpg"
+  },
+  {
+    "name": "University of Miami",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6W5P73l3Xb1dsTi6tPKPIdgw-kn4EjBf8Tg&s"
+  },
+  {
+    "name": "University of Rochester",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYvUzh-gUf9zuLqeP326rK_SPVe9Dt4bZeDQ&s"
+  },
+  {
+    "name": "Rice University",
+    "image": "https://cdn.britannica.com/84/117884-050-2A107043/Lovett-Hall-Rice-University-Houston-Texas.jpg"
+  },
+  {
+    "name": "Boston University",
+    "image": "https://www.harringtonhousing.com/uploads/0003/3066/2023/06/22/what-is-special-about-boston-university.jpg"
+  }
+]
